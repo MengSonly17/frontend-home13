@@ -447,6 +447,10 @@
         }
     }
 
+    .footer {
+        margin-bottom: 70px;
+    }
+
     .footer main .top {
         grid-template-columns: 1fr;
         gap: 30px;
